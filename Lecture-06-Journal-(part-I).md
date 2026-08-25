@@ -54,25 +54,18 @@ For goods bought for resale, the account used is **Purchases A/c**. For goods so
 | Dec. 9 | Naresh Kumar A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Sales A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods sold on credit to Naresh Kumar)* |  | 8,000 | 8,000 |
 | Dec. 12 | Purchases A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Vinod Kumar A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods purchased on credit from Vinod Kumar)* |  | 5,000 | 5,000 |
 | Dec. 16 | Raja A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Sales A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods sold on credit to Raja after trade discount)* |  | 6,000 | 6,000 |
-| Dec. 22 | Cash A/c Dr.<br>Discount Allowed A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Naresh Kumar A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being cash received in full settlement of Naresh Kumar's account)* |  | 8,000 | 8,000 |
-| Dec. 25 | Vinod Kumar A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Cash A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;To Discount Received A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being cash paid to Vinod Kumar in full settlement of his account)* |  | 2,000 | 2,000 |
+| Dec. 22 | Cash A/c Dr. |  | 7,600 |  |
+|  | Discount Allowed A/c Dr. |  | 400 |  |
+|  | &nbsp;&nbsp;&nbsp;&nbsp;To Naresh Kumar A/c |  |  | 8,000 |
+|  | &nbsp;&nbsp;&nbsp;&nbsp;*(Being cash received in full settlement of Naresh Kumar's account)* |  |  |  |
+| Dec. 25 | Vinod Kumar A/c Dr. |  | 2,000 |  |
+|  | &nbsp;&nbsp;&nbsp;&nbsp;To Cash A/c |  |  | 1,900 |
+|  | &nbsp;&nbsp;&nbsp;&nbsp;To Discount Received A/c |  |  | 100 |
+|  | &nbsp;&nbsp;&nbsp;&nbsp;*(Being cash paid to Vinod Kumar in full settlement of his account)* |  |  |  |
 | Dec. 28 | Stationery A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Cash A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being stationery purchased for cash)* |  | 250 | 250 |
 | Dec. 31 | Rent A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Cash A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being office rent paid)* |  | 800 | 800 |
 | Dec. 31 | Vinod Kumar A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Purchase Returns A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods returned to Vinod Kumar)* |  | 500 | 500 |
 |  | **Total** |  | **125,550** | **125,550** |
-
-### 4.1 Split Amounts in Compound Entries
-
-The journal's debit and credit columns normally show each account amount on its own line. In the Markdown table above, the total for a compound entry is shown in each amount column; its components are:
-
-| Date | Account | Debit (₹) | Credit (₹) |
-| --- | --- | ---: | ---: |
-| Dec. 22 | Cash A/c | 7,600 |  |
-|  | Discount Allowed A/c | 400 |  |
-|  | Naresh Kumar A/c |  | 8,000 |
-| Dec. 25 | Vinod Kumar A/c | 2,000 |  |
-|  | Cash A/c |  | 1,900 |
-|  | Discount Received A/c |  | 100 |
 
 ## 5. Points Illustrated by the Entries
 
