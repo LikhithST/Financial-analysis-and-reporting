@@ -24,7 +24,7 @@ The journal format shown in the notes uses the following columns:
 | Real account | Assets and property, including cash and furniture | Debit what comes in | Credit what goes out |
 | Nominal account | Expenses, losses, incomes, and gains | Debit expenses and losses | Credit incomes and gains |
 
-For goods bought for resale, the account used is **Purchases A/c**. For goods sold, the account used is **Sales A/c**.
+For goods bought for resale, the account used is **Purchases A/c**. For goods sold, the account used is **Sales A/c**. Under the traditional classification, Purchases, Sales, and Purchase Returns are **nominal accounts** because they record expenses, income, or reductions of expenses.
 
 ## 3. Transactions of Beta India Ltd.
 
@@ -45,27 +45,27 @@ For goods bought for resale, the account used is **Purchases A/c**. For goods so
 
 ## 4. Journal of Beta India Ltd.
 
-| Date | Particulars | L.F. | Debit (₹) | Credit (₹) |
-| --- | --- | :---: | ---: | ---: |
-| Dec. 1, 2011 | Cash A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Capital A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being business started with cash)* |  | 50,000 | 50,000 |
-| Dec. 3 | Purchases A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Cash A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods purchased for cash)* |  | 30,000 | 30,000 |
-| Dec. 3 | Furniture A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Cash A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being furniture purchased for cash)* |  | 5,000 | 5,000 |
-| Dec. 7 | Cash A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Sales A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods sold for cash)* |  | 10,000 | 10,000 |
-| Dec. 9 | Naresh Kumar A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Sales A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods sold on credit to Naresh Kumar)* |  | 8,000 | 8,000 |
-| Dec. 12 | Purchases A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Vinod Kumar A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods purchased on credit from Vinod Kumar)* |  | 5,000 | 5,000 |
-| Dec. 16 | Raja A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Sales A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods sold on credit to Raja after trade discount)* |  | 6,000 | 6,000 |
-| Dec. 22 | Cash A/c Dr. |  | 7,600 |  |
-|  | Discount Allowed A/c Dr. |  | 400 |  |
-|  | &nbsp;&nbsp;&nbsp;&nbsp;To Naresh Kumar A/c |  |  | 8,000 |
-|  | &nbsp;&nbsp;&nbsp;&nbsp;*(Being cash received in full settlement of Naresh Kumar's account)* |  |  |  |
-| Dec. 25 | Vinod Kumar A/c Dr. |  | 2,000 |  |
-|  | &nbsp;&nbsp;&nbsp;&nbsp;To Cash A/c |  |  | 1,900 |
-|  | &nbsp;&nbsp;&nbsp;&nbsp;To Discount Received A/c |  |  | 100 |
-|  | &nbsp;&nbsp;&nbsp;&nbsp;*(Being cash paid to Vinod Kumar in full settlement of his account)* |  |  |  |
-| Dec. 28 | Stationery A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Cash A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being stationery purchased for cash)* |  | 250 | 250 |
-| Dec. 31 | Rent A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Cash A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being office rent paid)* |  | 800 | 800 |
-| Dec. 31 | Vinod Kumar A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Purchase Returns A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods returned to Vinod Kumar)* |  | 500 | 500 |
-|  | **Total** |  | **125,550** | **125,550** |
+| Date | Particulars | Accounts identified, classification, and rule applied | L.F. | Debit (₹) | Credit (₹) |
+| --- | --- | --- | :---: | ---: | ---: |
+| Dec. 1, 2011 | Cash A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Capital A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being business started with cash)* | **Cash** is a real account; debit what comes in. **Capital** is a personal (representative personal) account for the owner; credit the giver. |  | 50,000 | 50,000 |
+| Dec. 3 | Purchases A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Cash A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods purchased for cash)* | **Purchases** is a nominal account; debit an expense. **Cash** is a real account; credit what goes out. |  | 30,000 | 30,000 |
+| Dec. 3 | Furniture A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Cash A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being furniture purchased for cash)* | **Furniture** and **Cash** are real accounts. Debit furniture because it comes in; credit cash because it goes out. |  | 5,000 | 5,000 |
+| Dec. 7 | Cash A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Sales A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods sold for cash)* | **Cash** is a real account; debit what comes in. **Sales** is a nominal account; credit an income. |  | 10,000 | 10,000 |
+| Dec. 9 | Naresh Kumar A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Sales A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods sold on credit to Naresh Kumar)* | **Naresh Kumar** is a personal account; debit the receiver of goods. **Sales** is a nominal account; credit an income. |  | 8,000 | 8,000 |
+| Dec. 12 | Purchases A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Vinod Kumar A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods purchased on credit from Vinod Kumar)* | **Purchases** is a nominal account; debit an expense. **Vinod Kumar** is a personal account; credit the giver of goods. |  | 5,000 | 5,000 |
+| Dec. 16 | Raja A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Sales A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods sold on credit to Raja after trade discount)* | **Raja** is a personal account; debit the receiver of goods. **Sales** is a nominal account; credit an income. The ₹6,000 is net of trade discount, which is not recorded separately. |  | 6,000 | 6,000 |
+| Dec. 22 | Cash A/c Dr. | **Cash** is a real account; debit what comes in. **Discount Allowed** is a nominal account; debit a loss. **Naresh Kumar** is a personal account; credit the giver as his debt is settled. |  | 7,600 |  |
+|  | Discount Allowed A/c Dr. |  |  | 400 |  |
+|  | &nbsp;&nbsp;&nbsp;&nbsp;To Naresh Kumar A/c |  |  |  | 8,000 |
+|  | &nbsp;&nbsp;&nbsp;&nbsp;*(Being cash received in full settlement of Naresh Kumar's account)* |  |  |  |  |
+| Dec. 25 | Vinod Kumar A/c Dr. | **Vinod Kumar** is a personal account; debit the receiver of payment. **Cash** is a real account; credit what goes out. **Discount Received** is a nominal account; credit a gain. |  | 2,000 |  |
+|  | &nbsp;&nbsp;&nbsp;&nbsp;To Cash A/c |  |  |  | 1,900 |
+|  | &nbsp;&nbsp;&nbsp;&nbsp;To Discount Received A/c |  |  |  | 100 |
+|  | &nbsp;&nbsp;&nbsp;&nbsp;*(Being cash paid to Vinod Kumar in full settlement of his account)* |  |  |  |  |
+| Dec. 28 | Stationery A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Cash A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being stationery purchased for cash)* | **Stationery** is a nominal account; debit an expense. **Cash** is a real account; credit what goes out. |  | 250 | 250 |
+| Dec. 31 | Rent A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Cash A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being office rent paid)* | **Rent** is a nominal account; debit an expense. **Cash** is a real account; credit what goes out. |  | 800 | 800 |
+| Dec. 31 | Vinod Kumar A/c Dr.<br>&nbsp;&nbsp;&nbsp;&nbsp;To Purchase Returns A/c<br>&nbsp;&nbsp;&nbsp;&nbsp;*(Being goods returned to Vinod Kumar)* | **Vinod Kumar** is a personal account; debit the receiver because the goods are returned to him. **Purchase Returns** is a nominal account; credit the reduction in purchases. |  | 500 | 500 |
+|  | **Total** |  |  | **125,550** | **125,550** |
 
 ## 5. Points Illustrated by the Entries
 
