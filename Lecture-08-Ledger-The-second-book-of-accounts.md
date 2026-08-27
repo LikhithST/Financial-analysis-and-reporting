@@ -4,10 +4,6 @@
 
 Lecture 7 introduced the ledger and prepared the **Cash Account** and **Capital Account**. This lecture continues the same posting process for the remaining accounts prepared from the journal entries of Beta India Ltd.
 
-The ledger format used in the notes is shown below:
-
-![Cash Account Ledger Format](Images/Cash-Account-Ledger.png)
-
 ## 2. Ledger Format
 
 | Date | Particulars | J.F. | Debit (Rs.) | Date | Particulars | J.F. | Credit (Rs.) |
