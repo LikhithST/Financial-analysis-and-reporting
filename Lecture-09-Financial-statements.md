@@ -64,10 +64,9 @@ Direct expenses are costs without which production or purchase of goods for sale
 
 | Particulars (Dr.) | Inner Amount (₹) | Amount (₹) | Particulars (Cr.) | Inner Amount (₹) | Amount (₹) |
 | --- | ---: | ---: | --- | ---: | ---: |
-| To Opening Stock of Raw Material | — | 24,000 | By Sales | 160,000 | — |
-| To Purchases | 91,300 | — | Less: Sales Returns | 5,000 | 155,000 |
-| Less: Purchase Returns | 4,000 | 87,300 | By Closing Stock | — | 22,100 |
-| To Wages | — | 18,100 |  |  |  |
+| To Opening Stock of Raw Material | — | 24,000 |  |  |  |
+| To Purchases<br>Less: Purchase Returns | 91,300<br>4,000 | 87,300 | By Sales<br>Less: Sales Returns | 160,000<br>5,000 | 155,000 |
+| To Wages | — | 18,100 | By Closing Stock | — | 22,100 |
 | To Factory Rent | — | 3,000 |  |  |  |
 | To Freight on Purchases | — | 3,000 |  |  |  |
 | To Gross Profit c/d | — | 41,700 |  |  |  |
